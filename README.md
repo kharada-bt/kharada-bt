@@ -19,11 +19,11 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharada-bt&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kharada-bt&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kharada-bt&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kharada-bt&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kharada-bt&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharada-bt&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kharada-bt&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kharada-bt&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kharada-bt&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kharada-bt&theme=transparent&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kharada-bt&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=kharada-bt&theme=transparent)
