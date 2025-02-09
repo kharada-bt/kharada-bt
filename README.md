@@ -1,4 +1,4 @@
-👋 Hi! I'm kharada-bt
+👋 Hi! I'm Kent Harada(kharada-bt)
 
 <p align="left">
     <a href="https://github.com/kharada-bt">
