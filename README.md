@@ -2,7 +2,7 @@
 
 <p align="left">
     <a href="http://x.com/kharada_bt">
-    <img height="20" src="https://img.shields.io/twitter/follow/kharada_bt?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/x/follow/kharada_bt?label=x&logo=x&style=flat" />
   </a>
   <a href="https://github.com/kharada-bt">
     <img height="20" src="https://komarev.com/ghpvc/?username=kharada-bt" />
