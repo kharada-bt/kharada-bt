@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/0be2d17b-9867-467f-8948-b1826d9072c0) Hi! I'm Kenta Harada(kharada-bt)
+# <img src="https://github.com/user-attachments/assets/02279a7c-19ee-4c17-a7b1-9359d7b3c5e0" width="8%"> Hi! I'm Kenta Harada(kharada-bt)
 <p align="left">
     <a href="https://github.com/kharada-bt">
     <img height="20" src="https://komarev.com/ghpvc/?username=kharada-bt" />
