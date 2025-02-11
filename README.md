@@ -1,5 +1,4 @@
-👋 Hi! I'm Kenta Harada(kharada-bt)
-
+# Hi! I'm Kenta Harada(kharada-bt)
 <p align="left">
     <a href="https://github.com/kharada-bt">
     <img height="20" src="https://komarev.com/ghpvc/?username=kharada-bt" />
@@ -18,12 +17,19 @@
   </a>
 </p>
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharada-bt&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kharada-bt&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kharada-bt&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kharada-bt&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kharada-bt&theme=transparent&utcOffset=9)
+Hi, I'm Kharada! I'm an engineer with a focus on Android, Bluetooth, and embedded software.
+I like to working on projects that bridge the gap between software and hardware, especially when it comes to Bluetooth integration.
+I'm always enjoy to learn new things and solve interesting challenges. 
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kharada-bt&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharada-bt&theme=transparent)
+
+## 🔧 Technologies & Tools
+
+- 💻 Programming Languages: C, C++, Java, Kotlin, HTML, CSS, JavaScript
+- 🧰 Platform: Nordic nRF52, Android
+- 🛠️ Tools: Git, CI/CD, Google Cloud
+
+## 📫 How to reach me
+
+- X: [@kharada_bt](https://twitter.com/kharada_bt)
+- GitHub: [@kharada-bt](https://github.com/kharada-bt)
