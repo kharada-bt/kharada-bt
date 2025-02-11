@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Hi, I'm Kharada! I'm an engineer with a focus on Android, Bluetooth, and embedded software.
+Hi, I'm Kenta Harada! I'm an engineer with a focus on Android, Bluetooth, and embedded software.
 I like to working on projects that bridge the gap between software and hardware, especially when it comes to Bluetooth integration.
 I'm always enjoy to learn new things and solve interesting challenges. 
 
