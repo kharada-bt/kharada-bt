@@ -25,7 +25,7 @@ I'm always enjoy to learn new things and solve interesting challenges.
 
 ## 🔧 Technologies & Tools
 
-- 💻 Programming Languages: C, C++, Java, Kotlin, HTML, CSS, JavaScript
+- 💻 Programming Languages: C, C++, Java, Kotlin
 - 🧰 Platform: Nordic nRF52, Android
 - 🛠️ Tools: Git, CI/CD, Google Cloud
 
