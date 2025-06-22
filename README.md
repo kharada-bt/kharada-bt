@@ -26,7 +26,7 @@ I'm always enjoy to learn new things and solve interesting challenges.
 ## 🔧 Technologies & Tools
 
 - 💻 Programming Languages: C, C++, Java, Kotlin
-- 🧰 Platform: Nordic nRF52, Android
+- 🧰 Platform: Android, Nordic nRF52
 - 🛠️ Tools: Git, CI/CD, Google Cloud
 
 ## 📫 How to reach me
