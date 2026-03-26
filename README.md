@@ -11,9 +11,7 @@
   </a>
 </p>
 
-Hi, I'm Kenta Harada! I'm a software engineer with a focus on Android, Bluetooth, and embedded software.
-I like to working on projects that bridge the gap between software and hardware, especially when it comes to Bluetooth integration.
-I'm always enjoy to learn new things and solve interesting challenges. 
+Hi, I'm Kenta Harada — a software engineer specializing in Android, Bluetooth, and embedded software. I enjoy building things that bridge the gap between software and hardware, with a particular focus on Bluetooth integration. Always learning, always solving interesting problems.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharada-bt&theme=transparent)
 
